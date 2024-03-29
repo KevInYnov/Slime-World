@@ -1,6 +1,6 @@
-# README - Projet de Jeu Étudiant avec Unity
+# Slime World
 
-## Slime World
+## Projet de Jeu Étudiant avec Unity
 
 ## Description :
 Mon jeu est un jeu de plateforme 2D.
