@@ -3,7 +3,7 @@
 ## Projet de Jeu Étudiant avec Unity
 
 ## Description :
-Mon jeu est un jeu de plateforme 2D.
+jeu de plateforme 2D.
 
 ## Instructions d'Installation :
 1. **Téléchargement :** Clonez ce dépôt Git.
